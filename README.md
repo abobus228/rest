@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/dmgaewsk43tinhdu?svg=true)](https://ci.appveyor.com/project/abobus228/rest-iqfv7)
+[![Build status](https://ci.appveyor.com/api/projects/status/eswxk9m5js7ljimk?svg=true)](https://ci.appveyor.com/project/abobus228/rest)
