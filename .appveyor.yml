@@ -19,5 +19,5 @@ install:
 build_script:
   # Запускаем автотесты
   # Для проектов на базе Selenide необходимо добавить параметр для запуска браузера
-  # в headless режиме -Dselenide.headless=true, параметр --info должен остаться
+  # в headless  режиме -Dselenide.headless=true, параметр --info должен остаться
   - ./gradlew test --info
